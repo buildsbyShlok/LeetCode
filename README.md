@@ -11,4 +11,4 @@ This repository contains my accepted LeetCode solutions in **C++**.
 - C++
 
 ## Profile
-- 🟠 LeetCode: [https://leetcode.com/u/YOUR_USERNAME/](https://leetcode.com/u/BuildsbyShlok/)
+- 🟠 LeetCode: [https://leetcode.com/u/BuildsbyShlok/](https://leetcode.com/u/BuildsbyShlok/)
